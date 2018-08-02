@@ -4,6 +4,5 @@
 *.egg-info
 *.swp
 tags
-iot/docs/current
 .idea
 git_swap.sh
